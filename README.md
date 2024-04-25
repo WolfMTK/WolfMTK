@@ -49,6 +49,15 @@ I am a Backend Developer from Russia.
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20" alt="Linkedln">
     </a>
 
+# Contacts
+
+<a href="https://t.me/Werewolf_ML">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" />
+</a>
+<a href="https://www.linkedin.com/in/alexander-kuzmin-13520525b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedln">
+</a>
+
 # Programming languages
 
 <div>
