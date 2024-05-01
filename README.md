@@ -80,4 +80,6 @@ I am a Backend Developer from Russia.
 
 # My Stats:
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=WolfMTK)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WolfMTK&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
